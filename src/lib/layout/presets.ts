@@ -35,6 +35,6 @@ export function createDashboardPreset(): LayoutNode {
     ],
     { direction: "vertical" }
   );
-a
+  
   return createPageNode([mainContent]);
 }
